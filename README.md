@@ -27,9 +27,8 @@ Yes, this is the last step to create the base terrain.
 Then you can add all sorts of cool things (color depending on the height values, the plane of the water surface, various objects on the map and much, much more).
 
 ## How can I try it? :rabbit2:
-
+> I am using IntellijIDEA, btw
 #### 1. File to start the program: `src/main/java/just/curiosity/terrain_3d/Main`
-
 #### 2. Interaction with the renderer: https://github.com/ZERDICORP/renderer_3d#interaction-point_right-raised_hands
 > To generate a new terrain, press the "R" key
 

@@ -13,7 +13,8 @@ I couldn't resist trying to combine the two :yum: :sweat_drops:
 > I can literally do it in 3 steps.
 
 #### Step #1 - Create a heightmap with Perlin Noise
-Yes, we just take the perlin noise and find the noise values for all points in the 2d map (the resulting values are the **heightmap**).  
+Yes, we just take the perlin noise and find the noise values for all points in the 2d map (the resulting values are the **heightmap**). 
+
 If you want to learn a little more about perlin noise: https://github.com/ZERDICORP/perlin_noise_2d
 
 #### Step #2 - Convert heightmap to 3D point array

@@ -31,7 +31,7 @@ Then you can add all sorts of cool things (color depending on the height values,
 > I am using IntellijIDEA, btw
 #### 1. Just open the project in the IDE and run the following file
 ```
-src/main/java/just/curiosity/terrain_3d/Main
+src/main/java/just/curiosity/terrain_3d/Main.java
 ```
 #### 2. You can read about how to interact with the renderer at the link below
 https://github.com/ZERDICORP/renderer_3d#interaction-point_right-raised_hands

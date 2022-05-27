@@ -58,7 +58,7 @@ public final class Mouse implements MouseListener, MouseMotionListener, MouseWhe
 
   @Override
   public void mouseReleased(MouseEvent mouseEvent) {
-    dragged = true;
+    dragged = false;
   }
 
   @Override
